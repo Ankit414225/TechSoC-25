@@ -25,6 +25,7 @@ elif(c=="*"):
     print(a*b)
 
 print("Thank You for using my calculator")
+print("By Ankit")
 
 
 
